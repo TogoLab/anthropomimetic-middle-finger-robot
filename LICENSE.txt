@@ -1,0 +1,26 @@
+This repository contains materials distributed under multiple licenses.
+Please check the applicable license for each file or directory before use.
+
+Summary of licenses:
+
+1. Bone (human anatomy) models
+   - Files: /cad/finger_*, /stl/finger_*
+   - License: Creative Commons Attribution-ShareAlike 2.1 Japan (CC BY-SA 2.1 JP)
+   - Original data source:
+     BodyParts3D / Life Science Integrated Database Center
+     https://lifesciencedb.jp/bp3d/
+
+2. Original design parts (base, pulleys, and other non-anatomical components)
+   - Files: /cad/base_*, /stl/base_*
+   - License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+3. Assembly manuals (PDF files)
+   - Files: /docs/*.pdf
+   - License: © Togo Laboratory, All Rights Reserved
+
+The full text of each license can be found in the "licenses/" directory.
+
+IMPORTANT NOTICE:
+Laboratory logos, university logos, names, and trademarks included in this
+repository are NOT covered by the above licenses.
+Separate permission is required for their use.

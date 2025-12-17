@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Anthropomimetic Middle Finger Robot"
+message: "If you use this open-hardware project in academic or educational work, please cite it as follows."
+type: dataset
+
+authors:
+  - family-names: Togo
+    given-names: Shunta
+    affiliation: "The University of Electro-Communications, Japan"
+
+repository-code: "https://github.com/togolab/anthropomimetic-middle-finger-robot"
+
+keywords:
+  - anthropomimetic robotics
+  - biomimetic robot
+  - robotic finger
+  - open hardware
+  - educational robotics
+
+license: CC-BY-4.0
+
+abstract: >
+  This repository provides open-hardware design data for a robotic finger
+  that mimics the anatomical structure of the human middle finger.
+  The project is intended for educational and research purposes and enables
+  comparison between anthropomimetic joint mechanisms and conventional
+  robotic joints without requiring any software or microcontrollers.
+
+date-released: 2025-12-17
