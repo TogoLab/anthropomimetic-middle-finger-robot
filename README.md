@@ -1,4 +1,4 @@
-# 人体模倣 中指ロボット（Anthropomimetic Middle Finger Robot）
+# 人体模倣中指ロボット（Anthropomimetic Middle Finger Robot）
 
 📘 日本語版（このページ）  
 🌍 [English](README_EN.md)
